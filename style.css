@@ -175,11 +175,11 @@ body{
 }
 .main-img img{
     width: 25rem;
-    border: 1px solid;
+    border: 1px solid #e5e5e5;
     /* background-color:blue; */
 }
 .child-img img{
-    border: 1px solid;
+    border: 1px solid #e5e5e5;
     /* background-color: indigo; */
     width: 5rem;
     /* flex-direction: column; */
